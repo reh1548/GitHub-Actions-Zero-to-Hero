@@ -13,4 +13,4 @@ def test_add():
 
 def test_substract():
     assert substract(1, 2) == -1
-    assert substract(3, 2) = 1
+    assert substract(3, 2) == 1
